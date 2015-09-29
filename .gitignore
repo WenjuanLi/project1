@@ -1,2 +1,4 @@
 *.tmp
 willdel.txt
+.DS_Store
+
